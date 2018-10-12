@@ -1,5 +1,5 @@
 # Warehouse
-A warehouse simulation that handles the selection and loading of fascia for bumpers on minivans. 
+A warehouse assembling line simulation that handles the selecting and loading/unloading process of fascias on minivans. 
 
 - Dependency Injection
 - MVC Push Model
